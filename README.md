@@ -258,3 +258,6 @@ You are required to submit BOTH of the following for review:
 
 ---
 © 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+
+
+routes is the rest make sure the routes are using model, model.create / model.update.
