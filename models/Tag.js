@@ -6,7 +6,10 @@ class Tag extends Model { }
 
 Tag.init(
   {
-    tag_name: { type: DataTypes.STRING, allowNull: false } /// tag is a search label 
+    tag_name: { 
+      type: DataTypes.STRING, 
+      allowNull: false 
+    } /// tag is a search label 
   },
   {
     sequelize,
