@@ -31,4 +31,5 @@ If you have any questions you can email me at kbrandon863@gmail.com if you want 
 ## Deployment 
 The code can be viewed [here](https://github.com/bkness/object-relational-mapping-)
 
-Along with a video demostrating the app being used here
+## Video Demonstration
+[Untitled_ Dec 11, 2023 11_44 PM.webm](https://github.com/bkness/readme-generator/assets/123907755/0968c7b7-f89f-4004-9a65-4392baccb514)
